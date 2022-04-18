@@ -1,0 +1,4 @@
+﻿  lab1.cpp
+C:\Users\grand\Documents\prog\lab1\component.h(14,1): warning C4227: anachronism used: qualifiers on reference are ignored
+C:\Users\grand\Documents\prog\lab1\component.h(35): message : see reference to class template instantiation 'Iterator<T,U>' being compiled
+  lab1.vcxproj -> C:\Users\grand\Documents\prog\lab1\x64\Debug\lab1.exe
